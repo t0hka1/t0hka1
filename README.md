@@ -1,4 +1,4 @@
-## FIRST
+## FOLLOW HERE!
 
 - #### 🚀Meditate ten times in your heart
 
