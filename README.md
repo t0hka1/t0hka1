@@ -8,7 +8,7 @@
 
 - #### ✨CTFer/Amateur programmer
 
-- #### 🔭 I’m currently working on GO&&PYTHON
+- #### 🔭 I’m currently working on GO&&Android
 
 - #### 🌱 I’m currently learning  GO
 
