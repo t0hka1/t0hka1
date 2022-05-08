@@ -10,8 +10,8 @@
 
 - #### 🔭 I’m currently working on GO&&Android
 
-- #### 🌱 I’m currently learning  GO
+- #### 🌱 I’m currently learning  GO 
 
-- #### :balloon:  I'm may learn JAVA&&BASH in the future 
+- #### :balloon:  I'm may learn JAVA&&RUST in the future 
 
 - #### ⚡ Fun hobby: KENDO
