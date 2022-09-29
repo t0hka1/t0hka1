@@ -8,7 +8,7 @@
 
 - #### ✨CTFer/Amateur programmer
 
-- #### 🔭 I’m currently working on Blockchain&&Android
+- #### 🔭 I’m currently working on Blockchain & Android
 
 - #### 🌱 I’m currently learning  Solidity & Ethers.js
 
