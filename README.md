@@ -8,10 +8,10 @@
 
 - #### ✨CTFer/Amateur programmer
 
-- #### 🔭 I’m currently working on GO&&Android
+- #### 🔭 I’m currently working on Blockchain&&Android
 
-- #### 🌱 I’m currently learning  GO 
+- #### 🌱 I’m currently learning  Solidity & Ethers.js
 
-- #### :balloon:  I'm may learn JAVA&&RUST in the future 
+- #### :balloon:  I'm may learn RUST in the future 
 
 - #### ⚡ Fun hobby: KENDO
