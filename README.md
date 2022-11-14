@@ -1,9 +1,4 @@
-##### I'm not here!
+# My coding life will start from scratch.
+# Reboot in a while.
 
-#### I'm not here!
-
-### I'm not here!
-
-## I'm not here!
-
-# I'm not here!
+![ ](https://blog-t0hka.oss-cn-hangzhou.aliyuncs.com/img/boqi.webp)
